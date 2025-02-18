@@ -1,4 +1,3 @@
-![Banner](https://your-image-link.com/banner.png)
 
 # Hi, I'm Hamza Waseem Nasser 👋  
 **Machine Learning Engineer | Deep Learning | LLMs | Computer Vision | GANs**
@@ -40,12 +39,6 @@ Used Vision Transformers and CNNs to classify chest X-rays, outperforming tradit
 
 📉 **[Customer Churn Prediction](https://github.com/Hamza-Waseem-Nasser/Customer-Churn-Prediction-Using-Machine-Learning-and-Neural-Networks)**  
 Developed robust ML models to predict customer churn with high accuracy.  
-
----
-
-## 📈 GitHub Stats  
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Waseem-Nasser&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Waseem-Nasser&layout=compact&theme=radical)  
 
 ---
 
